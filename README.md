@@ -1,7 +1,7 @@
 # Getting Started with SpritleRailwayTicketBooking
-I have maded JWT tokens for the API and also checked the edge cases of the application.I also dockerized this application.
+I configured the system to send email using PHPMailer, SendEmail with an attachment receipt, upload to the nodejs folder, JWT tokens for the API, and tested the application's edge cases. I also dockerized this application.
 
-#### website Link    :          https://spritle-y4mi.onrender.com <br>
+#### website Link    :          https://spritleticketbookingfrontend.onrender.com <br>
 #### API Link        :          https://spritleticketbookingbackend.onrender.com/<br>
 #### Email Link      :          https://spritleemailapi.onrender.com/index.php
 #### Video Link      :          https://drive.google.com/file/d/1SevTfvYgjksZbsw3Dui9Dac7xKfvEj-x/view?usp=sharing<br>
