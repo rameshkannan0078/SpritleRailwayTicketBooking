@@ -54,7 +54,7 @@ It will install all the packages of backend
 
 3.)Make the path of SendEmail in cmd.
 ### Install the PHP
-### php -S localhost:3002 -t SendEmail/
+### php -S localhost:3002 -t sendemail/
 
 
 
